@@ -19,5 +19,5 @@ Column 8 : room number from where the reading was made
 # [Contest Link](https://www.kaggle.com/c/logicalrhythm18-wifi/)
 
 # Result
-Rank : 3
+Rank : 3<br>
 Accuracy : 98.666%
